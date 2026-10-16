@@ -46,4 +46,4 @@ That's a 63% lift over the baseline, and a bootstrap test confirms it isn't nois
 ## More
 
 See [Lookbook's Breakdown](docs/overview.md) for a short overview of each stage.
-The source code is private; this repository is a presentation of the project.
+This repository is just a presentation of the work. 
